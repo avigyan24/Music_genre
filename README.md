@@ -24,7 +24,7 @@ After training and evaluation, the models achieved the following results:
 
 CNN Model:
 
-Accuracy: 0.49
+Accuracy: 0.49<br>
 GCN Model:
 
 Accuracy: 0.972
