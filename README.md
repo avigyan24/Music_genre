@@ -1,5 +1,5 @@
 <h1>Stock Market Prediction with News Headlines</h1>
-#Overview
+<h2>Overview</h2>
 This project aims to predict the rise or decrease of the DJIA (Dow Jones Industrial Average) Adj Close value based on news headlines. The dataset provided contains news headlines and stock market data, with the goal of building a machine learning model to predict the stock market movement based on the news.
 
 #Dataset
